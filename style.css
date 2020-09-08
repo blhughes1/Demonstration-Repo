@@ -216,13 +216,6 @@ nav li {
    left: 20px;
 }
 
-/*html {
-   /*background-image: url(kitten1.jpg);*/
-   background-image: radial-gradient(Blue, Green, orange);
-   background-repeat: no-repeat;
-   background-size: cover;
-}*/
-
 .circle-img {
    border-radius: 50%;
 }
@@ -237,7 +230,7 @@ img {
 }
 
 .row {
-   margin 30px;
+   margin: 30px;
 }
 
 .input-field {
